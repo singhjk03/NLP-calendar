@@ -1,0 +1,15 @@
+streamlit
+streamlit-calendar
+spacy
+python-dateutil
+torch
+transformers
+pytz
+datasets
+seqeval
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
+langchain-google-genai
+langchain-core
